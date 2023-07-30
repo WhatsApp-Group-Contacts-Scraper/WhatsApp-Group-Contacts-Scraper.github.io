@@ -3,13 +3,4 @@ It's a web scraping tool which exports all the group participants' contact detai
 
 ## Author: Sk Khurshid Alam
 
-## How to install:
-* Make sure python is installed
-* Click on install.bat
-
-## How to run with visible mode:
-* Click on run.bat file
-
-## How to run with invisible mode:
-* Open cmd prompt/terminal
-* Execute `run.bat -inviz`
+# *Note: This project is moved here: https://github.com/ska-codehub/WhatsAppGroupScraper*
